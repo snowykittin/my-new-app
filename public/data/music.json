@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "Advanced Technology",
+        "artist": "Artist 1",
+        "url": "music/Advanced-Technology_AdobeStock_538663464_preview.m4a"
+    },
+    {
+        "id": 1,
+        "title": "Corporate Ambient",
+        "artist": "Artist 2",
+        "url": "music/Motivational-Uplifting-Corporate-Ambient_AdobeStock_538662664_preview.m4a"
+    },
+    {
+        "id": 2,
+        "title": "Building Happiness",
+        "artist": "Artist 3",
+        "url": "music/Building-Happiness_AdobeStock_538663096_preview.m4a"
+    }
+]
